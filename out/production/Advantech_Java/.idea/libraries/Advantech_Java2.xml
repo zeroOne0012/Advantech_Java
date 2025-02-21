@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Advantech_Java2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Advantech_Java.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
